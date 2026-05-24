@@ -29,17 +29,17 @@ automatic charge management and intensity control.
 The controller combines energy harvesting and LED drive subsystems: 
   
 i. Solar MPPT Charging IC 
-Dedicated MPPT controller optimizes solar energy transfer to battery and terminates 
+- Dedicated MPPT controller optimizes solar energy transfer to battery and terminates 
 charge at full capacity. 
 
 ii. Battery Management 
-Automatic charge cut-off and protection ensure battery longevity and safe operation. 
+- Automatic charge cut-off and protection ensure battery longevity and safe operation. 
 
 iii. Synchronous Boost LED Driver 
-Boost converter raises battery voltage to LED array requirement with high efficiency. 
+- Boost converter raises battery voltage to LED array requirement with high efficiency. 
 
 iv. LED Intensity Control 
-Low-side MOSFET enables PWM dimming for intensity regulation. 
+- Low-side MOSFET enables PWM dimming for intensity regulation. 
 
 ---
 
